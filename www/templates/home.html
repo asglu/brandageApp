@@ -1,4 +1,4 @@
-<ion-view view-title="Brandage">
+<ion-view view-title="Mukto Pata">
   <ion-content>
       <ion-refresher
     pulling-text="Pull to refresh..."
@@ -28,9 +28,9 @@
         <div class="list">
             <a style="margin-bottom:10px; border-bottom:none;" class="item item-thumbnail-left item-text-wrap item-icon-left" ng-repeat="post in posts | orderBy: '-date'" href="#app/single/{{posts.indexOf(post)}}">
 
-                <img ng-src="{{post.featured_image.attachment_meta.sizes.thumbnail.url}}"  imageonload/>
-            <h2 ng-bind-html="post.title | uppercase" ></h2>
-                <p ng-bind-html="post.excerpt | limitTo : 50" class="left"></p>
+                <img ng-src="{{post.better_featured_image.source_url}}"  imageonload/>
+            <h2 ng-bind-html="post.title.rendered | uppercase" ></h2>
+                <p ng-bind-html="post.excerpt.rendered | limitTo : 50" class="left"></p>
                 <p style="float:left; font-style:italic; margin-bottom:10px;"><small>{{post.date | fromNow}}</small></p>
             </a>
             

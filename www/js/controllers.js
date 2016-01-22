@@ -49,7 +49,7 @@ app.controller('HomeCtrl', function($scope, $http, $ionicLoading, $ionicSlideBox
       });
         //get posts
       $scope.getPosts = function() {
-        $http.get('http://brandage.com.ng/wp-json/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
+        $http.get('http://muktopata.com/wp-json/wp/v2/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
          .success(function(data) {
            $scope.posts = data;
             //console.log(posts)
@@ -65,7 +65,7 @@ app.controller('HomeCtrl', function($scope, $http, $ionicLoading, $ionicSlideBox
   
     //refresh page
         $scope.doRefresh = function() {
-            $http.get('http://brandage.com.ng/wp-json/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
+            $http.get('http://muktopata.com/wp-json/wp/v2/posts/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
              .success(function(data) {
                $scope.posts = data;
              })
