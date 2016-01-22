@@ -1,4 +1,4 @@
-<ion-view view-title="{{singlePost.title | uppercase}}">
+<ion-view view-title="{{singlePost.title.rendered | uppercase}}">
     <ion-nav-buttons side="right">
         <button style="background-color:#0096d6;" class="button button-icon ion-android-share-alt" ng-click="shareAnywhere()"></button>
         
@@ -7,16 +7,16 @@
       <div class="">
       
         <div>
-            <img class="featured_img" ng-src="{{singlePost.featured_image.source}}" width="100%" height="auto">
+            <img class="featured_img" ng-src="{{singlePost.better_featured_image.source_url}}" width="100%" height="auto">
             
           </div> 
       
           <div class="card item-text-wrap">
               
             <div class="item">
-                <p style="font-style:italic; margin-bottom:10px;"><small>{{post.date | fromNow}}</small></p>
-                <h3 ng-bind-html="singlePost.title | uppercase"></h3>
-                <p ng-bind-html="singlePost.content"></p>
+                <p style="font-style:italic; margin-bottom:10px;"><small>{{singlePost.date | fromNow}}</small></p>
+                <h3 ng-bind-html="singlePost.title.rendered | uppercase"></h3>
+                <p ng-bind-html="singlePost.content.rendered"></p>
             </div> 
 
           </div> 

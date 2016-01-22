@@ -1,0 +1,1 @@
+H:\_proj\brandageApp\platforms\windows\CordovaApp.Windows.jsproj;neutral

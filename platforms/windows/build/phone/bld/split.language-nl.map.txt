@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nl"
+"ResourceDimensions"		"language-nl"
+
+[Files]
+"H:\_proj\brandageApp\platforms\windows\build\phone\bld\split.language-nl.pri"			"resources.pri"
+"H:\_proj\brandageApp\platforms\windows\build\phone\bld\PackageLayout\plugins\cordova-plugin-x-socialsharing\src\android\nl\xservices\plugins\SocialSharing.java"			"plugins\cordova-plugin-x-socialsharing\src\android\nl\xservices\plugins\SocialSharing.java"

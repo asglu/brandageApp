@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="com.ionicframework.brandage153954" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://com.ionicframework.brandage153954/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/SplashScreen.png"/>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://com.ionicframework.brandage153954/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="plugins">
+				<ResourceMapSubtree name="cordova-plugin-x-socialsharing">
+					<NamedResource name="package.json" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/package.json">
+						<Candidate type="Path">
+							<Value>plugins\cordova-plugin-x-socialsharing\package.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="plugin.xml" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/plugin.xml">
+						<Candidate type="Path">
+							<Value>plugins\cordova-plugin-x-socialsharing\plugin.xml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/README.md">
+						<Candidate type="Path">
+							<Value>plugins\cordova-plugin-x-socialsharing\README.md</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="screenshots">
+						<NamedResource name="screenshot-android-share.png" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/screenshots/screenshot-android-share.png">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\screenshots\screenshot-android-share.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="screenshot-ios6-share.png" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/screenshots/screenshot-ios6-share.png">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\screenshots\screenshot-ios6-share.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="screenshot-ios7-ipad-share.png" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/screenshots/screenshot-ios7-ipad-share.png">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\screenshots\screenshot-ios7-ipad-share.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="screenshot-ios7-share.png" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/screenshots/screenshot-ios7-share.png">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\screenshots\screenshot-ios7-share.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="screenshot-wp8-share.jpg" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/screenshots/screenshot-wp8-share.jpg">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\screenshots\screenshot-wp8-share.jpg</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="screenshots-ios7-shareconfig.png" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/screenshots/screenshots-ios7-shareconfig.png">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\screenshots\screenshots-ios7-shareconfig.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="src">
+						<ResourceMapSubtree name="android">
+							<ResourceMapSubtree name="xservices">
+								<ResourceMapSubtree name="plugins">
+									<NamedResource name="SocialSharing.java" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/src/android/xservices/plugins/SocialSharing.java"/>
+								</ResourceMapSubtree>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="ios">
+							<NamedResource name="SocialSharing.h" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/src/ios/SocialSharing.h">
+								<Candidate type="Path">
+									<Value>plugins\cordova-plugin-x-socialsharing\src\ios\SocialSharing.h</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="SocialSharing.m" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/src/ios/SocialSharing.m">
+								<Candidate type="Path">
+									<Value>plugins\cordova-plugin-x-socialsharing\src\ios\SocialSharing.m</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="windows">
+							<NamedResource name="SocialSharingProxy.js" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/src/windows/SocialSharingProxy.js">
+								<Candidate type="Path">
+									<Value>plugins\cordova-plugin-x-socialsharing\src\windows\SocialSharingProxy.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="wp8">
+							<NamedResource name="SocialSharing.cs" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/src/wp8/SocialSharing.cs">
+								<Candidate type="Path">
+									<Value>plugins\cordova-plugin-x-socialsharing\src\wp8\SocialSharing.cs</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="SocialSharingSDK">
+								<NamedResource name="Newtonsoft.Json.dll" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/src/wp8/SocialSharingSDK/Newtonsoft.Json.dll">
+									<Candidate type="Path">
+										<Value>plugins\cordova-plugin-x-socialsharing\src\wp8\SocialSharingSDK\Newtonsoft.Json.dll</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="tests">
+						<NamedResource name="plugin.xml" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/tests/plugin.xml">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\tests\plugin.xml</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="test.js" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/tests/test.js">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\tests\test.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="www">
+						<NamedResource name="SocialSharing.js" uri="ms-resource://com.ionicframework.brandage153954/Files/plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js">
+							<Candidate type="Path">
+								<Value>plugins\cordova-plugin-x-socialsharing\www\SocialSharing.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="cordova-js-src">
+					<NamedResource name="exec.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/cordova-js-src/exec.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\exec.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platform.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/cordova-js-src/platform.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\platform.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="jquery.bxslider.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/css/jquery.bxslider.css">
+						<Candidate type="Path">
+							<Value>www\css\jquery.bxslider.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="style.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/css/style.css">
+						<Candidate type="Path">
+							<Value>www\css\style.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="img">
+					<NamedResource name="drawable-xxhdpi-icon.png" uri="ms-resource://com.ionicframework.brandage153954/Files/www/img/drawable-xxhdpi-icon.png">
+						<Candidate type="Path">
+							<Value>www\img\drawable-xxhdpi-icon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ionic.png" uri="ms-resource://com.ionicframework.brandage153954/Files/www/img/ionic.png">
+						<Candidate type="Path">
+							<Value>www\img\ionic.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="loading-gif.gif" uri="ms-resource://com.ionicframework.brandage153954/Files/www/img/loading-gif.gif">
+						<Candidate type="Path">
+							<Value>www\img\loading-gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="loading-gif2.gif" uri="ms-resource://com.ionicframework.brandage153954/Files/www/img/loading-gif2.gif">
+						<Candidate type="Path">
+							<Value>www\img\loading-gif2.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="loading-gif3.gif" uri="ms-resource://com.ionicframework.brandage153954/Files/www/img/loading-gif3.gif">
+						<Candidate type="Path">
+							<Value>www\img\loading-gif3.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="loading-gif4.gif" uri="ms-resource://com.ionicframework.brandage153954/Files/www/img/loading-gif4.gif">
+						<Candidate type="Path">
+							<Value>www\img\loading-gif4.gif</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="angular-carousel.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-carousel.css">
+						<Candidate type="Path">
+							<Value>www\js\angular-carousel.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="angular-carousel.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-carousel.js">
+						<Candidate type="Path">
+							<Value>www\js\angular-carousel.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="angular-touch.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch.js">
+						<Candidate type="Path">
+							<Value>www\js\angular-touch.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="app.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/app.js">
+						<Candidate type="Path">
+							<Value>www\js\app.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/bower.json">
+						<Candidate type="Path">
+							<Value>www\js\bower.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="controllers.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/controllers.js">
+						<Candidate type="Path">
+							<Value>www\js\controllers.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="data.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/data.json">
+						<Candidate type="Path">
+							<Value>www\js\data.json</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jquery-1.11.0.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/jquery-1.11.0.min.js">
+						<Candidate type="Path">
+							<Value>www\js\jquery-1.11.0.min.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jquery.bxslider.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/jquery.bxslider.js">
+						<Candidate type="Path">
+							<Value>www\js\jquery.bxslider.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jquery.bxslider.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/jquery.bxslider.min.js">
+						<Candidate type="Path">
+							<Value>www\js\jquery.bxslider.min.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jquery.timeago.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/jquery.timeago.js">
+						<Candidate type="Path">
+							<Value>www\js\jquery.timeago.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="moment.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/moment.js">
+						<Candidate type="Path">
+							<Value>www\js\moment.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ng-cordova.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/ng-cordova.min.js">
+						<Candidate type="Path">
+							<Value>www\js\ng-cordova.min.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="readme.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/readme.md">
+						<Candidate type="Path">
+							<Value>www\js\readme.md</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="services.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/services.js">
+						<Candidate type="Path">
+							<Value>www\js\services.js</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="angular-touch">
+						<NamedResource name="angular-touch.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch/angular-touch.js">
+							<Candidate type="Path">
+								<Value>www\js\angular-touch\angular-touch.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-touch.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch/angular-touch.min.js">
+							<Candidate type="Path">
+								<Value>www\js\angular-touch\angular-touch.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-touch.min.js.map" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch/angular-touch.min.js.map">
+							<Candidate type="Path">
+								<Value>www\js\angular-touch\angular-touch.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch/bower.json">
+							<Candidate type="Path">
+								<Value>www\js\angular-touch\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="index.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch/index.js">
+							<Candidate type="Path">
+								<Value>www\js\angular-touch\index.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="package.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch/package.json">
+							<Candidate type="Path">
+								<Value>www\js\angular-touch\package.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/angular-touch/README.md">
+							<Candidate type="Path">
+								<Value>www\js\angular-touch\README.md</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="images">
+						<NamedResource name="bx_loader.gif" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/images/bx_loader.gif">
+							<Candidate type="Path">
+								<Value>www\js\images\bx_loader.gif</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="controls.png" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/images/controls.png">
+							<Candidate type="Path">
+								<Value>www\js\images\controls.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="plugins">
+						<NamedResource name="jquery.easing.1.3.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/plugins/jquery.easing.1.3.js">
+							<Candidate type="Path">
+								<Value>www\js\plugins\jquery.easing.1.3.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="jquery.fitvids.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/js/plugins/jquery.fitvids.js">
+							<Candidate type="Path">
+								<Value>www\js\plugins\jquery.fitvids.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="lib">
+					<ResourceMapSubtree name="angular">
+						<NamedResource name=".bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/.bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular\.bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-csp.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/angular-csp.css">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular-csp.css</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/angular.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/angular.min.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js.gzip" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/angular.min.js.gzip">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.min.js.gzip</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular.min.js.map" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/angular.min.js.map">
+							<Candidate type="Path">
+								<Value>www\lib\angular\angular.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="index.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/index.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular\index.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="package.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/package.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular\package.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular/README.md">
+							<Candidate type="Path">
+								<Value>www\lib\angular\README.md</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="angular-animate">
+						<NamedResource name=".bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/.bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\.bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-animate.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/angular-animate.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\angular-animate.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-animate.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/angular-animate.min.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\angular-animate.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-animate.min.js.map" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/angular-animate.min.js.map">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\angular-animate.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="index.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/index.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\index.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="package.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/package.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\package.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-animate/README.md">
+							<Candidate type="Path">
+								<Value>www\lib\angular-animate\README.md</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="angular-sanitize">
+						<NamedResource name=".bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/.bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\.bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-sanitize.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/angular-sanitize.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\angular-sanitize.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-sanitize.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/angular-sanitize.min.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\angular-sanitize.min.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="angular-sanitize.min.js.map" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/angular-sanitize.min.js.map">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\angular-sanitize.min.js.map</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="index.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/index.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\index.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="package.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/package.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\package.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-sanitize/README.md">
+							<Candidate type="Path">
+								<Value>www\lib\angular-sanitize\README.md</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="angular-swiper">
+						<NamedResource name=".bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/.bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-swiper\.bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-swiper\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="gulpfile.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/gulpfile.js">
+							<Candidate type="Path">
+								<Value>www\lib\angular-swiper\gulpfile.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LICENSE" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/LICENSE">
+							<Candidate type="Path">
+								<Value>www\lib\angular-swiper\LICENSE</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="package.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/package.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-swiper\package.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/README.md">
+							<Candidate type="Path">
+								<Value>www\lib\angular-swiper\README.md</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="demos">
+							<NamedResource name="index.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/demos/index.html">
+								<Candidate type="Path">
+									<Value>www\lib\angular-swiper\demos\index.html</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="dist">
+							<NamedResource name="angular-swiper.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/dist/angular-swiper.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-swiper\dist\angular-swiper.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="src">
+							<NamedResource name="angular-swiper.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-swiper/src/angular-swiper.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-swiper\src\angular-swiper.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="angular-ui-router">
+						<NamedResource name=".bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/.bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-ui-router\.bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\angular-ui-router\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="CHANGELOG.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/CHANGELOG.md">
+							<Candidate type="Path">
+								<Value>www\lib\angular-ui-router\CHANGELOG.md</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="CONTRIBUTING.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/CONTRIBUTING.md">
+							<Candidate type="Path">
+								<Value>www\lib\angular-ui-router\CONTRIBUTING.md</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LICENSE" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/LICENSE">
+							<Candidate type="Path">
+								<Value>www\lib\angular-ui-router\LICENSE</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/README.md">
+							<Candidate type="Path">
+								<Value>www\lib\angular-ui-router\README.md</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="api">
+							<NamedResource name="angular-ui-router.d.ts" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/api/angular-ui-router.d.ts">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\api\angular-ui-router.d.ts</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="release">
+							<NamedResource name="angular-ui-router.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/release/angular-ui-router.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\release\angular-ui-router.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="angular-ui-router.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/release/angular-ui-router.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\release\angular-ui-router.min.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="src">
+							<NamedResource name="common.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/common.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\common.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="resolve.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/resolve.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\resolve.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="state.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/state.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\state.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="stateDirectives.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/stateDirectives.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\stateDirectives.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="stateFilters.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/stateFilters.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\stateFilters.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="templateFactory.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/templateFactory.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\templateFactory.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="urlMatcherFactory.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/urlMatcherFactory.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\urlMatcherFactory.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="urlRouter.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/urlRouter.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\urlRouter.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="view.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/view.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\view.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="viewDirective.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/viewDirective.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\viewDirective.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="viewScroll.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/angular-ui-router/src/viewScroll.js">
+								<Candidate type="Path">
+									<Value>www\lib\angular-ui-router\src\viewScroll.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ionic">
+						<NamedResource name=".bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/.bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\ionic\.bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\ionic\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/README.md">
+							<Candidate type="Path">
+								<Value>www\lib\ionic\README.md</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="css">
+							<NamedResource name="ionic.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/css/ionic.css">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\css\ionic.css</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.min.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/css/ionic.min.css">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\css\ionic.min.css</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="fonts">
+							<NamedResource name="ionicons.eot" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/fonts/ionicons.eot">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.eot</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionicons.svg" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/fonts/ionicons.svg">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.svg</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionicons.ttf" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/fonts/ionicons.ttf">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.ttf</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionicons.woff" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/fonts/ionicons.woff">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\fonts\ionicons.woff</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="js">
+							<NamedResource name="ionic-angular.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/js/ionic-angular.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic-angular.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic-angular.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/js/ionic-angular.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic-angular.min.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.bundle.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/js/ionic.bundle.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.bundle.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.bundle.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/js/ionic.bundle.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.bundle.min.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/js/ionic.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ionic.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/js/ionic.min.js">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\js\ionic.min.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="scss">
+							<NamedResource name="ionic.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/ionic.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\ionic.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_action-sheet.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_action-sheet.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_action-sheet.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_animations.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_animations.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_animations.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_backdrop.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_backdrop.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_backdrop.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_badge.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_badge.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_badge.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_bar.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_bar.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_bar.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_button-bar.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_button-bar.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_button-bar.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_button.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_button.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_button.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_checkbox.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_checkbox.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_checkbox.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_form.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_form.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_form.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_grid.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_grid.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_grid.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_items.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_items.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_items.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_list.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_list.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_list.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_loading.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_loading.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_loading.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_menu.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_menu.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_menu.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_mixins.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_mixins.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_mixins.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_modal.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_modal.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_modal.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_platform.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_platform.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_platform.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_popover.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_popover.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_popover.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_popup.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_popup.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_popup.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_progress.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_progress.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_progress.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_radio.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_radio.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_radio.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_range.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_range.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_range.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_refresher.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_refresher.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_refresher.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_reset.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_reset.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_reset.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_scaffolding.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_scaffolding.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_scaffolding.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_select.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_select.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_select.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_slide-box.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_slide-box.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_slide-box.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_spinner.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_spinner.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_spinner.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_tabs.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_tabs.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_tabs.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_toggle.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_toggle.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_toggle.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_transitions.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_transitions.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_transitions.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_type.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_type.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_type.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_util.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_util.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_util.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="_variables.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/_variables.scss">
+								<Candidate type="Path">
+									<Value>www\lib\ionic\scss\_variables.scss</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="ionicons">
+								<NamedResource name="ionicons.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/ionicons/ionicons.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\ionicons.scss</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="_ionicons-font.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/ionicons/_ionicons-font.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\_ionicons-font.scss</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="_ionicons-icons.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/ionicons/_ionicons-icons.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\_ionicons-icons.scss</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="_ionicons-variables.scss" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/ionic/scss/ionicons/_ionicons-variables.scss">
+									<Candidate type="Path">
+										<Value>www\lib\ionic\scss\ionicons\_ionicons-variables.scss</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="swiper">
+						<NamedResource name=".bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/.bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\swiper\.bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="bower.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/bower.json">
+							<Candidate type="Path">
+								<Value>www\lib\swiper\bower.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="CHANGELOG.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/CHANGELOG.md">
+							<Candidate type="Path">
+								<Value>www\lib\swiper\CHANGELOG.md</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="component.json" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/component.json">
+							<Candidate type="Path">
+								<Value>www\lib\swiper\component.json</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="gulpfile.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/gulpfile.js">
+							<Candidate type="Path">
+								<Value>www\lib\swiper\gulpfile.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="LICENSE" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/LICENSE">
+							<Candidate type="Path">
+								<Value>www\lib\swiper\LICENSE</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="README.md" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/README.md">
+							<Candidate type="Path">
+								<Value>www\lib\swiper\README.md</Value>
+							</Candidate>
+						</NamedResource>
+						<ResourceMapSubtree name="dist">
+							<ResourceMapSubtree name="css">
+								<NamedResource name="swiper.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/css/swiper.css">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\dist\css\swiper.css</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper.min.css" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/css/swiper.min.css">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\dist\css\swiper.min.css</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+							<ResourceMapSubtree name="js">
+								<NamedResource name="swiper.jquery.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/js/swiper.jquery.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\dist\js\swiper.jquery.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper.jquery.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/js/swiper.jquery.min.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\dist\js\swiper.jquery.min.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/js/swiper.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\dist\js\swiper.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper.min.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/js/swiper.min.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\dist\js\swiper.min.js</Value>
+									</Candidate>
+								</NamedResource>
+								<ResourceMapSubtree name="maps">
+									<NamedResource name="swiper.jquery.min.js.map" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/js/maps/swiper.jquery.min.js.map">
+										<Candidate type="Path">
+											<Value>www\lib\swiper\dist\js\maps\swiper.jquery.min.js.map</Value>
+										</Candidate>
+									</NamedResource>
+									<NamedResource name="swiper.min.js.map" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/dist/js/maps/swiper.min.js.map">
+										<Candidate type="Path">
+											<Value>www\lib\swiper\dist\js\maps\swiper.min.js.map</Value>
+										</Candidate>
+									</NamedResource>
+								</ResourceMapSubtree>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="js">
+								<NamedResource name="a11y.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/a11y.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\a11y.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="amd.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/amd.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\amd.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="controller.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/controller.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\controller.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="core.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/core.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\core.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="dom-plugins.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/dom-plugins.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\dom-plugins.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="dom.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/dom.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\dom.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="effects.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/effects.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\effects.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="emitter.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/emitter.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\emitter.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="hashnav.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/hashnav.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\hashnav.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="init.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/init.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\init.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="keyboard.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/keyboard.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\keyboard.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="lazy-load.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/lazy-load.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\lazy-load.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="mousewheel.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/mousewheel.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\mousewheel.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="parallax.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/parallax.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\parallax.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="plugins.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/plugins.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\plugins.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="scrollbar.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/scrollbar.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\scrollbar.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper-intro-f7.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/swiper-intro-f7.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\swiper-intro-f7.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper-intro.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/swiper-intro.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\swiper-intro.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper-outro.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/swiper-outro.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\swiper-outro.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper-proto.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/swiper-proto.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\swiper-proto.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="wrap-end.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/wrap-end.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\wrap-end.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="wrap-start.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/js/wrap-start.js">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\js\wrap-start.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+							<ResourceMapSubtree name="less">
+								<NamedResource name="core.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/core.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\core.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="effects.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/effects.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\effects.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="mixins.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/mixins.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\mixins.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="navigation-f7.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/navigation-f7.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\navigation-f7.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="navigation.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/navigation.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\navigation.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="preloader-f7.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/preloader-f7.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\preloader-f7.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="preloader.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/preloader.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\preloader.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="scrollbar.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/scrollbar.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\scrollbar.less</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="swiper.less" uri="ms-resource://com.ionicframework.brandage153954/Files/www/lib/swiper/src/less/swiper.less">
+									<Candidate type="Path">
+										<Value>www\lib\swiper\src\less\swiper.less</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="cordova-plugin-console">
+						<ResourceMapSubtree name="www">
+							<NamedResource name="console-via-logger.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-console/www/console-via-logger.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-console\www\console-via-logger.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="logger.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-console/www/logger.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-console\www\logger.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="cordova-plugin-device">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="DeviceProxy.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-device/src/windows/DeviceProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="device.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-device/www/device.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-device\www\device.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="cordova-plugin-splashscreen">
+						<ResourceMapSubtree name="www">
+							<NamedResource name="splashscreen.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-splashscreen\www\splashscreen.js</Value>
+								</Candidate>
+							</NamedResource>
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="SplashScreenProxy.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-splashscreen/www/windows/SplashScreenProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-splashscreen\www\windows\SplashScreenProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="cordova-plugin-statusbar">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="StatusBarProxy.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-statusbar/src/windows/StatusBarProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="statusbar.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-statusbar/www/statusbar.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-statusbar\www\statusbar.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="cordova-plugin-x-socialsharing">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="SocialSharingProxy.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-x-socialsharing/src/windows/SocialSharingProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-x-socialsharing\src\windows\SocialSharingProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="SocialSharing.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-x-socialsharing\www\SocialSharing.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ionic-plugin-keyboard">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="KeyboardProxy.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/plugins/ionic-plugin-keyboard/src/windows/KeyboardProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="templates">
+					<NamedResource name="browse.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/templates/browse.html">
+						<Candidate type="Path">
+							<Value>www\templates\browse.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="home.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/templates/home.html">
+						<Candidate type="Path">
+							<Value>www\templates\home.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="login.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/templates/login.html">
+						<Candidate type="Path">
+							<Value>www\templates\login.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="menu.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/templates/menu.html">
+						<Candidate type="Path">
+							<Value>www\templates\menu.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="post.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/templates/post.html">
+						<Candidate type="Path">
+							<Value>www\templates\post.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="search.html" uri="ms-resource://com.ionicframework.brandage153954/Files/www/templates/search.html">
+						<Candidate type="Path">
+							<Value>www\templates\search.html</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="WinJS">
+					<ResourceMapSubtree name="js">
+						<NamedResource name="base.js" uri="ms-resource://com.ionicframework.brandage153954/Files/www/WinJS/js/base.js">
+							<Candidate type="Path">
+								<Value>www\WinJS\js\base.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

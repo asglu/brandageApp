@@ -1,5 +1,7 @@
 //angular.module('starter.controllers', [])
 
+var siteUrl = 'http://muktopata.com/wp-json/wp/v2';
+
 app.controller('AppCtrl', function($scope, $ionicModal, $timeout) {
 
   // With the new view caching in Ionic, Controllers are only called
@@ -49,7 +51,7 @@ app.controller('HomeCtrl', function($scope, $http, $ionicLoading, $ionicSlideBox
       });
         //get posts
       $scope.getPosts = function() {
-        $http.get('http://muktopata.com/wp-json/wp/v2/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
+        $http.get(siteUrl + '/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
          .success(function(data) {
            $scope.posts = data;
             //console.log(posts)
@@ -65,7 +67,7 @@ app.controller('HomeCtrl', function($scope, $http, $ionicLoading, $ionicSlideBox
   
     //refresh page
         $scope.doRefresh = function() {
-            $http.get('http://muktopata.com/wp-json/wp/v2/posts/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
+            $http.get(siteUrl + '/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
              .success(function(data) {
                $scope.posts = data;
              })
@@ -107,7 +109,7 @@ app.controller('SingleCtrl', function($scope, $stateParams, $http, $ionicLoading
         template: '<img src="img/loading-gif4.gif" width="60" height="60"/>'
       });
     
-    return $http.get('http://brandage.com.ng/wp-json/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
+    return $http.get(siteUrl + '/posts?filter[post_status]=publish&filter[posts_per_page]=50&filter[orderby]=date')
     .success(function(data){
         $scope.singlePost = data[$stateParams.id];
         //console.log($scope.singlePost);

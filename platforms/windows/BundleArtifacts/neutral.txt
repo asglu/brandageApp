@@ -1,0 +1,3 @@
+MainPackage=H:\_proj\brandageApp\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_0.0.1.0_Bundle\CordovaApp.Phone_0.0.1.0_anycpu_debug.appx
+ResourcePack=H:\_proj\brandageApp\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_0.0.1.0_Bundle\CordovaApp.Phone_0.0.1.0_language-nl.appx
+ResourcePack=H:\_proj\brandageApp\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone_0.0.1.0_Bundle\CordovaApp.Phone_0.0.1.0_scale-100.appx
